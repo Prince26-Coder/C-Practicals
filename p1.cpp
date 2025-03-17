@@ -1,6 +1,3 @@
-# C-Practicals
-C++
-
 #include <iostream>
 #include <cmath>
 using namespace std;
